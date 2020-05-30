@@ -1,0 +1,15 @@
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\bin\Debug\netstandard2.0\BurgersUIApp.deps.json
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\bin\Debug\netstandard2.0\BurgersUIApp.dll
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\bin\Debug\netstandard2.0\ref\BurgersUIApp.dll
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\bin\Debug\netstandard2.0\BurgersUIApp.pdb
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\Views\MenuDetailPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\BurgersUIApp.AssemblyInfoInputs.cache
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\BurgersUIApp.AssemblyInfo.cs
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\BurgersUIApp.dll
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\ref\BurgersUIApp.dll
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\BurgersUIApp.pdb
+G:\courses\xamarin\Some Projects\BurgersUI\BurgersUIApp\obj\Debug\netstandard2.0\BurgersUIApp.csprojAssemblyReference.cache
